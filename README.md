@@ -37,7 +37,10 @@ The dataset includes features such as:
 
 ## Models Applied
 
-- Linear Regression
+- Linear Regression, Lasso
+- KNN
 - Random Forest
-- XGBoost 
+- Gradient Boost
+- XGBoost
+- SVM
 - GridSearchCV for hyperparameter tuning
