@@ -25,7 +25,7 @@ The dataset includes features such as:
 - Tax and MPG
 - Price (target variable)
 
-(Data source: [Include dataset source or mark as proprietary if applicable])
+(Data source: [https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho]
 
 ## Technologies Used
 
@@ -39,5 +39,5 @@ The dataset includes features such as:
 
 - Linear Regression
 - Random Forest
-- XGBoost (optional: include if used)
+- XGBoost 
 - GridSearchCV for hyperparameter tuning
