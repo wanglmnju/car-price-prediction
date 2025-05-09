@@ -44,3 +44,8 @@ The dataset includes features such as:
 - XGBoost
 - SVM
 - GridSearchCV for hyperparameter tuning
+
+## Results
+
+- Best model performance: [Gradient Boosting, RMSE:129639.022]
+- Feature importance analysis shows that [ "age" and "Max_power"] are the most significant predictors of price.
